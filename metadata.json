@@ -1,0 +1,6 @@
+{
+  "name": "NOVA - Next-Gen Social Network",
+  "description": "Your identity. Your interests. Your world. A next-generation social network focused on personal identity, interests, communities and AI-powered discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
